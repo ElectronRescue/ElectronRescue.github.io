@@ -3,7 +3,7 @@
     <div>
       <logo/>
       <h1 class="title">
-        electron-rescue
+        Electron Rescue
       </h1>
       <h2 class="subtitle">
         A learning game designed to teach the basics of electronics.
